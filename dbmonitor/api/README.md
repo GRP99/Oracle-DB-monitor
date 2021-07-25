@@ -3,8 +3,8 @@
 ## Install instantclient_19_9
 ```
 Download : https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
-Criar a pasta : C:\Oracle
-Colocar o ficheiro descarregado nessa pasta
+Create the folder : C:\Oracle
+Put the downloaded file in that folder
 ```
 
 ## Install dependencies
