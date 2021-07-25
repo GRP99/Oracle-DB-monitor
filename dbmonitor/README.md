@@ -1,6 +1,6 @@
 # dbmonitor
 
-## Modo de execução:
+## Execution Mode
 1. Start oracledb
 ```
 cd /home/uminho/dockers/data/oracle

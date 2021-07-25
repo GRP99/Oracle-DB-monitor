@@ -7,7 +7,7 @@ Using the knowledge acquired in the practical and theoretical component of the c
 ### Topics
 1. Creation of an [agent java](Agente/) that through the administration views performs the collection of information
 necessary considered necessary.
-2. Creation of a new [PDB](criacao_PDB-Schema-Tablespaces-Datafiles.txt), respective schema with permanent and temporary tablespaces and associated datafiles, in order to store the data collected in point 1. The collected data structure was modeled and presented in a [relational data model]((schema_database.sql)). The data model created includes the history of records. For example the evolution of the size (free space, occupied space) of a tablespace over time, or the number of sessions over time as well. The Enterprise Manager Console was considered to serve as an example.
+2. Creation of a new [PDB](creation_PDB-Schema-Tablespaces-Datafiles.txt), respective schema with permanent and temporary tablespaces and associated datafiles, in order to store the data collected in point 1. The collected data structure was modeled and presented in a [relational data model](schema_database.sql). The data model created includes the history of records. For example the evolution of the size (free space, occupied space) of a tablespace over time, or the number of sessions over time as well. The Enterprise Manager Console was considered to serve as an example.
 3. Creation of a [REST API](dbmonitor/api/) that connects to the PBD created in point 2 and returns the results in the required JSON format. All endpoints created were documented.
 4. Creation of a [web interface](dbmonitor/interface/) that presents the data collected in point 3.
 
@@ -23,7 +23,7 @@ necessary considered necessary.
 [joao]: https://github.com/JoaoDiogoMota
 [joao-pic]: https://github.com/JoaoDiogoMota.png?size=120
 [goncalo]: https://github.com/JoseCosta28
-[goncalo-pic]: https://github.com/JoseCosta28.png?size=120
+[goncalo-pic]: https://image.flaticon.com/icons/png/128/634/634795.png
 
 <div align="center">
   <sub>September 2020 - January 2021</sub>
